@@ -76,15 +76,7 @@ TaskFlow-V1/
 
 Add a screenshot of the application and name it:
 
-```text
-screenshot.png
-```
-
-Then place it in the project root directory.
-
-```markdown
 ![TaskFlow V1](screenshot.png)
-```
 
 ---
 
